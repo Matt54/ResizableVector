@@ -1,6 +1,6 @@
 # ResizableVector
 
-A cross-platform SwiftUI View that resizes images using Cocoa or UIKit.
+A cross-platform SwiftUI Image View for resizing vector files.
 
 This solves an existing SwiftUI Image View issue where vector images have artifacts when significantly scaled.
 
