@@ -6,7 +6,7 @@ This solves an existing SwiftUI Image View issue where vector images have artifa
 
 https://user-images.githubusercontent.com/15333030/155897907-d64d4520-588c-4efd-b5ba-e70a66e04291.mov
 
-Link to related issues:
+Links to related issues:
 
 https://stackoverflow.com/questions/61164005/why-do-pdfs-resized-in-swiftui-getting-sharp-edges
 
